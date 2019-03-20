@@ -1,0 +1,34 @@
+* Notes
+
+* Hour registration
+  :LOGBOOK:
+  CLOCK: [2019-03-20 Wed 20:41]
+  CLOCK: [2019-03-19 Tue 21:05]--[2019-03-19 Tue 21:44] =>  0:39
+  CLOCK: [2019-03-17 Sun 20:00]--[2019-03-17 Sun 21:09] =>  1:09
+  :END:
+
+** [2019-03-20 Wed]
+
+- Ch. 2.2: Conditional Statements
+- Ch. 2.3: Loops
+- Ch. 2.4: Template Inheritance
+- Ch. 3: Web Forms
+
+** [2019-03-19 Tue]
+
+- Ch. 1.4: A 'Hello, World' Flask application
+Chapter 2: Templates
+- Ch. 2.1: What are Templates?
+  - I did notice that the Spacemacs HTML layer offers HTML completion after the
+    tag close symbol '<'. If I am not mistaken this is due to https://github.com/syl20bnr/spacemacs/issues/8222#issuecomment-320277662
+
+** [2019-03-17 Sun]
+
+- Preface
+Chapter 1: Hello, World!
+- Ch. 1.1: Introduction
+  - install pepperflash to be able to play flash video
+  - add sound device to (K)VM to be able to hear sound
+  - use PulseAudio Volume Control to redirect virt-manager playback to Bluetooth headset
+- Ch. 1.2: Installing Python
+- Ch. 1.3: Installing Flask
