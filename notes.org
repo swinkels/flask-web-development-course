@@ -2,10 +2,32 @@
 
 * Hour registration
   :LOGBOOK:
-  CLOCK: [2019-03-20 Wed 20:41]
+  CLOCK: [2019-03-23 Sat 11:58]
+  CLOCK: [2019-03-21 Thu 20:25]--[2019-03-21 Thu 21:17] =>  0:52
+  CLOCK: [2019-03-20 Wed 20:41]--[2019-03-20 Wed 21:13] =>  0:32
   CLOCK: [2019-03-19 Tue 21:05]--[2019-03-19 Tue 21:44] =>  0:39
   CLOCK: [2019-03-17 Sun 20:00]--[2019-03-17 Sun 21:09] =>  1:09
   :END:
+
+#+BEGIN: clocktable :scope file
+#+CAPTION: Clock summary at [2019-03-21 Thu 21:19]
+| Headline          | Time   |
+|-------------------+--------|
+| *Total time*      | *3:12* |
+|-------------------+--------|
+| Hour registration | 3:12   |
+#+END:
+
+** [2019-03-23 Sat]
+
+- Ch. 3.8: Generating Links
+
+** [2019-03-21 Thu]
+
+- Ch. 3.4: Form Templates
+- Ch. 3.5: Form Views
+- Ch. 3.6: Receiving Form Data
+- Ch. 3.7: Improving Field Validation
 
 ** [2019-03-20 Wed]
 
@@ -13,6 +35,9 @@
 - Ch. 2.3: Loops
 - Ch. 2.4: Template Inheritance
 - Ch. 3: Web Forms
+- Ch. 3.1: Introduction to Flask-WTF
+- Ch. 3.2: Configuration
+- Ch. 3.3: User Login Form
 
 ** [2019-03-19 Tue]
 
