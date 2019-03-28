@@ -2,7 +2,13 @@
 
 * Hour registration
   :LOGBOOK:
-  CLOCK: [2019-03-23 Sat 11:58]
+  CLOCK: [2019-03-28 Thu 20:01]--[2019-03-28 Thu 20:26] =>  0:25
+  CLOCK: [2019-03-27 Wed 20:26]--[2019-03-27 Wed 20:55] =>  0:29
+  CLOCK: [2019-03-24 Sun 10:41]--[2019-03-24 Sun 11:01] =>  0:20
+  CLOCK: [2019-03-23 Sat 20:08]--[2019-03-23 Sat 20:37] =>  0:29
+  CLOCK: [2019-03-23 Sat 12:49]--[2019-03-23 Sat 13:02] =>  0:13
+  CLOCK: [2019-03-23 Sat 12:12]--[2019-03-23 Sat 12:24] =>  0:12
+  CLOCK: [2019-03-23 Sat 11:58]--[2019-03-23 Sat 12:11] =>  0:13
   CLOCK: [2019-03-21 Thu 20:25]--[2019-03-21 Thu 21:17] =>  0:52
   CLOCK: [2019-03-20 Wed 20:41]--[2019-03-20 Wed 21:13] =>  0:32
   CLOCK: [2019-03-19 Tue 21:05]--[2019-03-19 Tue 21:44] =>  0:39
@@ -10,17 +16,47 @@
   :END:
 
 #+BEGIN: clocktable :scope file
-#+CAPTION: Clock summary at [2019-03-21 Thu 21:19]
+#+CAPTION: Clock summary at [2019-03-27 Wed 21:07]
 | Headline          | Time   |
 |-------------------+--------|
-| *Total time*      | *3:12* |
+| *Total time*      | *5:08* |
 |-------------------+--------|
-| Hour registration | 3:12   |
+| Hour registration | 5:08   |
 #+END:
+
+** [2019-03-28 Thu]
+
+- Ch. 5.9: User Registration
+
+
+** [2019-03-27 Wed]
+
+- Ch. 5.4: User Loader Function
+- Ch. 5.5: Logging Users In
+- Ch. 5.6: Logging Users Out
+- Ch. 5.7: Requiring Users To Login
+- Ch. 5.8: Showing the Logged In User in Templates
+
+** [2019-03-24 Sun]
+
+- Ch. 5: User Logins
+- Ch. 5.1: Password Hashing
+- Ch. 5.2: Introduction to Flask-Login
+- Ch. 5.3: Preparing the User Model for Flask-Login
 
 ** [2019-03-23 Sat]
 
 - Ch. 3.8: Generating Links
+- Ch. 4: Database
+- Ch. 4.1: Databases in Flask
+- Ch. 4.2: Database Migrations
+- Ch. 4.3: Flask-SQLAlchemy Configuration
+- Ch. 4.4: Database Models
+- Ch. 4.5: Creating the Migration Repository
+- Ch. 4.6: The First Database Migration
+- Ch. 4.7: Database Upgrade and Downgrade Workflow
+- Ch. 4.8: Database relationships
+- Ch. 4.9: Play Time
 
 ** [2019-03-21 Thu]
 
