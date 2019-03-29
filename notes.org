@@ -2,6 +2,9 @@
 
 * Hour registration
   :LOGBOOK:
+  CLOCK: [2019-03-29 Fri 08:51]
+  CLOCK: [2019-03-29 Fri 07:54]--[2019-03-29 Fri 08:34] =>  0:40
+  CLOCK: [2019-03-28 Thu 20:28]--[2019-03-28 Thu 20:46] =>  0:18
   CLOCK: [2019-03-28 Thu 20:01]--[2019-03-28 Thu 20:26] =>  0:25
   CLOCK: [2019-03-27 Wed 20:26]--[2019-03-27 Wed 20:55] =>  0:29
   CLOCK: [2019-03-24 Sun 10:41]--[2019-03-24 Sun 11:01] =>  0:20
@@ -16,18 +19,27 @@
   :END:
 
 #+BEGIN: clocktable :scope file
-#+CAPTION: Clock summary at [2019-03-27 Wed 21:07]
+#+CAPTION: Clock summary at [2019-03-28 Thu 20:46]
 | Headline          | Time   |
 |-------------------+--------|
-| *Total time*      | *5:08* |
+| *Total time*      | *5:51* |
 |-------------------+--------|
-| Hour registration | 5:08   |
+| Hour registration | 5:51   |
 #+END:
+
+** [2019-03-29 Fri]
+
+- Ch. 6.2: Avatars
+- Ch. 6.3: Using Jinja2 Sub-Templates
+- Ch. 6.4: More Interesting Profiles
+- Ch. 6.5: Recording The Last Visit Time For a User
+- Ch. 6.6: Profile Editor
 
 ** [2019-03-28 Thu]
 
 - Ch. 5.9: User Registration
-
+- Ch. 6: Profile Page and Avatars
+- Ch. 6.1: User Profile Page
 
 ** [2019-03-27 Wed]
 
