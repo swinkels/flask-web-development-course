@@ -2,7 +2,10 @@
 
 * Hour registration
   :LOGBOOK:
-  CLOCK: [2019-03-29 Fri 08:51]
+  CLOCK: [2019-03-31 Sun 12:18]
+  CLOCK: [2019-03-31 Sun 11:42]--[2019-03-31 Sun 12:07] =>  0:25
+  CLOCK: [2019-03-30 Sat 20:02]--[2019-03-30 Sat 20:29] =>  0:27
+  CLOCK: [2019-03-29 Fri 08:51]--[2019-03-29 Fri 08:57] =>  0:06
   CLOCK: [2019-03-29 Fri 07:54]--[2019-03-29 Fri 08:34] =>  0:40
   CLOCK: [2019-03-28 Thu 20:28]--[2019-03-28 Thu 20:46] =>  0:18
   CLOCK: [2019-03-28 Thu 20:01]--[2019-03-28 Thu 20:26] =>  0:25
@@ -19,13 +22,24 @@
   :END:
 
 #+BEGIN: clocktable :scope file
-#+CAPTION: Clock summary at [2019-03-28 Thu 20:46]
+#+CAPTION: Clock summary at [2019-03-30 Sat 20:30]
 | Headline          | Time   |
 |-------------------+--------|
-| *Total time*      | *5:51* |
+| *Total time*      | *7:04* |
 |-------------------+--------|
-| Hour registration | 5:51   |
+| Hour registration | 7:04   |
 #+END:
+
+** [2019-03-30 Sat]
+
+Ch. 7: Error Handling
+Ch. 7.1: Error Handling in Flask
+Ch. 7.2: Debug Mode
+Ch. 7.3: Custom Error Pages
+Ch. 7.4: Sending Errors by Email
+Ch. 7.5: Logging to a File
+Ch. 7.6: Fixing the Dpulicate Username Bug
+
 
 ** [2019-03-29 Fri]
 
