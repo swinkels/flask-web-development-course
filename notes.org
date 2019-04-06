@@ -2,7 +2,10 @@
 
 * Hour registration
   :LOGBOOK:
-  CLOCK: [2019-03-31 Sun 12:18]
+  CLOCK: [2019-04-06 Sat 19:29]
+  CLOCK: [2019-04-02 Tue 21:46]--[2019-04-02 Tue 22:10] =>  0:24
+  CLOCK: [2019-03-31 Sun 21:39]--[2019-03-31 Sun 22:24] =>  0:45
+  CLOCK: [2019-03-31 Sun 12:18]--[2019-03-31 Sun 13:00] =>  0:42
   CLOCK: [2019-03-31 Sun 11:42]--[2019-03-31 Sun 12:07] =>  0:25
   CLOCK: [2019-03-30 Sat 20:02]--[2019-03-30 Sat 20:29] =>  0:27
   CLOCK: [2019-03-29 Fri 08:51]--[2019-03-29 Fri 08:57] =>  0:06
@@ -22,24 +25,44 @@
   :END:
 
 #+BEGIN: clocktable :scope file
-#+CAPTION: Clock summary at [2019-03-30 Sat 20:30]
+#+CAPTION: Clock summary at [2019-03-31 Sun 22:24]
 | Headline          | Time   |
 |-------------------+--------|
-| *Total time*      | *7:04* |
+| *Total time*      | *8:56* |
 |-------------------+--------|
-| Hour registration | 7:04   |
+| Hour registration | 8:56   |
 #+END:
+
+** [2019-04-06 Sat]
+
+- Ch. 8.7: Unit Testing the User Model
+  - only typed the first test
+- Ch. 8.8: Integrating followers with the Application
+
+** [2019-04-02 Tue]
+
+- Ch. 8.5: Obtaining the Posts from Followed Users
+- Ch. 8.6: Combining own and Followed Posts
+
+** [2019-03-31 Sun]
+
+- Ch. 7.4: Sending Errors by Email
+- Ch. 7.5: Logging to a File
+- Ch. 7.6: Fixing the Duplicate Username Bug
+  - pushed the Git repo with the code to new GitHub repo swinkels/flask-web-development-course
+- Ch. 8: Followers
+- Ch. 8.1: Database Relationships Revisited
+- Ch. 8.2: Representing Followers
+- Ch. 8.3: Database Model Representation
+- Ch. 8.4: Adding and Removing "follows"
+  - re-read explanation on assocation table (from 8.2 on)
 
 ** [2019-03-30 Sat]
 
-Ch. 7: Error Handling
-Ch. 7.1: Error Handling in Flask
-Ch. 7.2: Debug Mode
-Ch. 7.3: Custom Error Pages
-Ch. 7.4: Sending Errors by Email
-Ch. 7.5: Logging to a File
-Ch. 7.6: Fixing the Dpulicate Username Bug
-
+- Ch. 7: Error Handling
+- Ch. 7.1: Error Handling in Flask
+- Ch. 7.2: Debug Mode
+- Ch. 7.3: Custom Error Pages
 
 ** [2019-03-29 Fri]
 
