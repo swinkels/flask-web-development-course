@@ -2,7 +2,8 @@
 
 * Hour registration
   :LOGBOOK:
-  CLOCK: [2019-04-06 Sat 19:29]
+  CLOCK: [2019-04-07 Sun 14:40]
+  CLOCK: [2019-04-06 Sat 19:29]--[2019-04-06 Sat 20:57] =>  1:28
   CLOCK: [2019-04-02 Tue 21:46]--[2019-04-02 Tue 22:10] =>  0:24
   CLOCK: [2019-03-31 Sun 21:39]--[2019-03-31 Sun 22:24] =>  0:45
   CLOCK: [2019-03-31 Sun 12:18]--[2019-03-31 Sun 13:00] =>  0:42
@@ -24,20 +25,31 @@
   CLOCK: [2019-03-17 Sun 20:00]--[2019-03-17 Sun 21:09] =>  1:09
   :END:
 
-#+BEGIN: clocktable :scope file
-#+CAPTION: Clock summary at [2019-03-31 Sun 22:24]
+#+BEGIN: clocktable :scope file :block week
+#+CAPTION: Clock summary at [2019-04-07 Sun 15:00], for week 2019-W14.
 | Headline          | Time   |
 |-------------------+--------|
-| *Total time*      | *8:56* |
+| *Total time*      | *1:52* |
 |-------------------+--------|
-| Hour registration | 8:56   |
+| Hour registration | 1:52   |
 #+END:
+
+** [2019-04-07 Sun]
+
+- Ch. 9.4: Pagination of Blog Posts
+- Ch. 9.5: Page Navigation
+- Ch. 9.6: Pagination in the User Profile Page
 
 ** [2019-04-06 Sat]
 
 - Ch. 8.7: Unit Testing the User Model
   - only typed the first test
 - Ch. 8.8: Integrating followers with the Application
+- Ch. 9: Pagination
+- Ch. 9.1: Submission of Blog Posts
+- Ch. 9.2: Displaying Blog Posts
+- Ch. 9.3: Making It Easier to Find Users to Follow
+
 
 ** [2019-04-02 Tue]
 
