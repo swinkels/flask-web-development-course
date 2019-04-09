@@ -2,7 +2,9 @@
 
 * Hour registration
   :LOGBOOK:
-  CLOCK: [2019-04-07 Sun 14:40]
+  CLOCK: [2019-04-09 Tue 20:30]--[2019-04-09 Tue 21:12] =>  0:42
+  CLOCK: [2019-04-07 Sun 20:19]--[2019-04-07 Sun 21:00] =>  0:41
+  CLOCK: [2019-04-07 Sun 14:40]--[2019-04-07 Sun 15:13] =>  0:33
   CLOCK: [2019-04-06 Sat 19:29]--[2019-04-06 Sat 20:57] =>  1:28
   CLOCK: [2019-04-02 Tue 21:46]--[2019-04-02 Tue 22:10] =>  0:24
   CLOCK: [2019-03-31 Sun 21:39]--[2019-03-31 Sun 22:24] =>  0:45
@@ -26,19 +28,31 @@
   :END:
 
 #+BEGIN: clocktable :scope file :block week
-#+CAPTION: Clock summary at [2019-04-07 Sun 15:00], for week 2019-W14.
+#+CAPTION: Clock summary at [2019-04-09 Tue 21:12], for week 2019-W15.
 | Headline          | Time   |
 |-------------------+--------|
-| *Total time*      | *1:52* |
+| *Total time*      | *0:42* |
 |-------------------+--------|
-| Hour registration | 1:52   |
+| Hour registration | 0:42   |
 #+END:
+
+** [2019-04-09 Tue]
+
+- Ch. 10.6: Sending a Password Reset Email
+- Ch. 10.7: Resetting a User Password
+- Ch. 10.8: Asynchronous Emails
 
 ** [2019-04-07 Sun]
 
 - Ch. 9.4: Pagination of Blog Posts
 - Ch. 9.5: Page Navigation
 - Ch. 9.6: Pagination in the User Profile Page
+- Ch. 10: Email Support
+- Ch. 10.1: Introduction to Flask-Mail
+- Ch. 10.2: Flask-Mail Usage
+- Ch. 10.3: A Simple Email Framework
+- Ch. 10.4: Requesting a Password Reset
+- Ch. 10.5: Password Reset Tokens
 
 ** [2019-04-06 Sat]
 
