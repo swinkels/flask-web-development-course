@@ -2,6 +2,8 @@
 
 * Hour registration
   :LOGBOOK:
+  CLOCK: [2019-04-12 Fri 14:11]
+  CLOCK: [2019-04-12 Fri 09:45]--[2019-04-12 Fri 09:48] =>  0:03
   CLOCK: [2019-04-09 Tue 20:30]--[2019-04-09 Tue 21:12] =>  0:42
   CLOCK: [2019-04-07 Sun 20:19]--[2019-04-07 Sun 21:00] =>  0:41
   CLOCK: [2019-04-07 Sun 14:40]--[2019-04-07 Sun 15:13] =>  0:33
@@ -28,13 +30,26 @@
   :END:
 
 #+BEGIN: clocktable :scope file :block week
-#+CAPTION: Clock summary at [2019-04-09 Tue 21:12], for week 2019-W15.
+#+CAPTION: Clock summary at [2019-04-12 Fri 14:47], for week 2019-W15.
 | Headline          | Time   |
 |-------------------+--------|
-| *Total time*      | *0:42* |
+| *Total time*      | *1:21* |
 |-------------------+--------|
-| Hour registration | 0:42   |
+| Hour registration | 1:21   |
 #+END:
+
+** [2019-04-12 Fri]
+
+- Ch. 11: Facelift
+- Ch. 11.1: CSS Frameworks
+- Ch. 12.2: Introducing Bootstrap
+- Ch. 12.3: Using Flask-Bootstrap
+  - install silversearcher-ag to quickly search & replace from Spacemacs
+- Ch. 11.4: Rendering Bootstrap Forms
+- Ch. 11.5: Rendering of Blog Posts
+- Ch. 11.6: Rendering Pagination Links
+- Ch. 11.7: Before and After
+
 
 ** [2019-04-09 Tue]
 
