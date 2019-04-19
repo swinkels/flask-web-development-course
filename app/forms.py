@@ -1,22 +1,23 @@
+from flask_babel import lazy_gettext as _l
 from flask_wtf import FlaskForm
 from wtforms import StringField, PasswordField, BooleanField, SubmitField, TextAreaField
 from wtforms.validators import ValidationError, DataRequired, Email, EqualTo, Length
 from app.models import User
 
 class LoginForm(FlaskForm):
-    username = StringField('Username', validators=[DataRequired()])
-    password = PasswordField('Password', validators=[DataRequired()])
-    remember_me = BooleanField('Remember me')
-    submit = SubmitField('Sign in')
+    username = StringField(_l('Username'), validators=[DataRequired()])
+    password = PasswordField(_l('Password'), validators=[DataRequired()])
+    remember_me = BooleanField(_l('Remember me'))
+    submit = SubmitField(_l('Sign in'))
 
 
 class RegistrationForm(FlaskForm):
-    username = StringField('Username', validators=[DataRequired()])
-    email = StringField('Email', validators=[DataRequired(), Email()])
-    password = PasswordField('Password', validators=[DataRequired()])
+    username = StringField(_l('Username'), validators=[DataRequired()])
+    email = StringField(_l('Email'), validators=[DataRequired(), Email()])
+    password = PasswordField(_l('Password'), validators=[DataRequired()])
     password2 = PasswordField(
-        'Repeat password', validators=[DataRequired(), EqualTo('password')])
-    submit = SubmitField('Register')
+        _l('Repeat password'), validators=[DataRequired(), EqualTo('password')])
+    submit = SubmitField(_l('Register'))
 
     def validate_username(self, username):
         user = User.query.filter_by(username=username.data).first()
