@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-19 20:36+0200\n"
+"POT-Creation-Date: 2019-04-21 16:19+0200\n"
 "PO-Revision-Date: 2019-04-16 21:35+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: nl\n"
@@ -46,52 +46,68 @@ msgstr "Herhaal wachtwoord"
 msgid "Register"
 msgstr "Registreer"
 
-#: app/routes.py:30
+#: app/routes.py:40
 msgid "Your post is now live!"
 msgstr "Je bericht is nu live!"
 
-#: app/routes.py:50
+#: app/routes.py:60
 msgid "Invalid username or password"
 msgstr "Ongeldige gebruikersnaam of wachtwoord"
 
-#: app/routes.py:76
+#: app/routes.py:86
 msgid "Congratulations, you are now a registered user!"
 msgstr "Gefiliciteerd, je bent nu een geregistreerde gebruiker!"
 
-#: app/routes.py:104
+#: app/routes.py:114
 msgid "Your changes have been saved."
 msgstr "Je wijzingen zijn opgeslagen."
 
-#: app/routes.py:117 app/routes.py:132
+#: app/routes.py:127 app/routes.py:142
 #, python-format
 msgid "User %s not found."
 msgstr "Gebruikter %s niet gevonden."
 
-#: app/routes.py:120
+#: app/routes.py:130
 msgid "You cannot follow yourself!"
 msgstr "Je kunt jezelf niet volgen!"
 
-#: app/routes.py:124
+#: app/routes.py:134
 #, python-format
 msgid "You are following %s!"
 msgstr "Je volgt nu %s!"
 
-#: app/routes.py:135
+#: app/routes.py:145
 msgid "You cannot unfollow yourself!"
 msgstr "Je kunt jezelf niet ontvolgen!"
 
-#: app/routes.py:139
+#: app/routes.py:149
 #, python-format
 msgid "You are not following %s!"
 msgstr "Je volgt %s niet!"
 
-#: app/routes.py:164
+#: app/routes.py:174
 msgid "Check your email for the instructions to reset your password"
 msgstr "Controleer je email voor de instructies om je wachtwoord te resetten"
 
-#: app/routes.py:180
+#: app/routes.py:190
 msgid "Your password has been reset."
 msgstr "Je wachtwoord is reset."
+
+#: app/translate.py:10
+msgid "Error: the translation service is not configured."
+msgstr ""
+
+#: app/translate.py:17
+msgid "Error: the translation service failed."
+msgstr ""
+
+#: app/templates/_post.html:18
+msgid "Translate"
+msgstr ""
+
+#: app/templates/base.html:66
+msgid "Error: Could not contact server."
+msgstr ""
 
 #: app/templates/index.html:5
 #, python-format

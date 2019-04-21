@@ -2,6 +2,12 @@
 
 * Hour registration
   :LOGBOOK:
+  CLOCK: [2019-04-21 Sun 15:43]--[2019-04-21 Sun 16:20] =>  0:37
+  CLOCK: [2019-04-21 Sun 15:24]--[2019-04-21 Sun 15:43] =>  0:19
+  CLOCK: [2019-04-20 Sat 09:13]--[2019-04-20 Sat 09:18] =>  0:05
+  CLOCK: [2019-04-20 Sat 08:17]--[2019-04-20 Sat 09:04] =>  0:47
+  CLOCK: [2019-04-19 Fri 20:44]--[2019-04-19 Fri 21:02] =>  0:18
+  CLOCK: [2019-04-19 Fri 20:40]--[2019-04-19 Fri 20:42] =>  0:02
   CLOCK: [2019-04-19 Fri 20:04]--[2019-04-19 Fri 20:39] =>  0:35
   CLOCK: [2019-04-16 Tue 21:45]--[2019-04-16 Tue 21:57] =>  0:12
   CLOCK: [2019-04-16 Tue 20:33]--[2019-04-16 Tue 21:39] =>  1:06
@@ -32,19 +38,33 @@
   CLOCK: [2019-03-17 Sun 20:00]--[2019-03-17 Sun 21:09] =>  1:09
   :END:
 
-#+BEGIN: clocktable :scope file
-#+CAPTION: Clock summary at [2019-04-19 Fri 20:40]
-| Headline          | Time    |
-|-------------------+---------|
-| *Total time*      | *15:29* |
-|-------------------+---------|
-| Hour registration | 15:29   |
+#+BEGIN: clocktable :scope file :block week
+#+CAPTION: Clock summary at [2019-04-21 Sun 16:20], for week 2019-W16.
+| Headline          | Time   |
+|-------------------+--------|
+| *Total time*      | *4:01* |
+|-------------------+--------|
+| Hour registration | 4:01   |
 #+END:
+
+** [2019-04-21 Sun]
+
+- Ch. 14.7: Ajax From The Client
+
+** [2019-04-20 Sat]
+
+- Ch. 14.4: Displaying a "Translate" Link
+- Ch. 14.5: Using a Third-Party Translation Service
+- Ch. 14.6: Ajax From The Server
 
 ** [2019-04-19 Fri]
 
 - Ch. 13.7: Translating Dates and Times
 - Ch. 13.8: Command-line Enhancements
+- Ch. 14: Ajax
+- Ch. 14.1: Server-side vs. Client-side
+- Ch. 14.2: Live Translation Workflow
+- Ch. 14.3: Language Identification
 
 ** [2019-04-16 Tue]
 
