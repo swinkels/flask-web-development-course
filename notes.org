@@ -52,6 +52,9 @@
 ** [2019-04-26 Fri]
 
 - Ch. 15.3: The Application Factory Pattern
+  - install xarchiver to have a GUI app to extract apps (without it, Firefox
+    only allows you to download archives and not view them)
+  - install gnome-commander
 
 ** [2019-04-22 Mon]
 
