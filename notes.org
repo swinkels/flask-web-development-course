@@ -2,6 +2,8 @@
 
 * Hour registration
   :LOGBOOK:
+  CLOCK: [2019-04-26 Fri 19:43]
+  CLOCK: [2019-04-22 Mon 11:00]--[2019-04-22 Mon 11:20] =>  0:20
   CLOCK: [2019-04-21 Sun 15:43]--[2019-04-21 Sun 16:20] =>  0:37
   CLOCK: [2019-04-21 Sun 15:24]--[2019-04-21 Sun 15:43] =>  0:19
   CLOCK: [2019-04-20 Sat 09:13]--[2019-04-20 Sat 09:18] =>  0:05
@@ -39,13 +41,23 @@
   :END:
 
 #+BEGIN: clocktable :scope file :block week
-#+CAPTION: Clock summary at [2019-04-21 Sun 16:20], for week 2019-W16.
+#+CAPTION: Clock summary at [2019-04-26 Fri 19:43], for week 2019-W17.
 | Headline          | Time   |
 |-------------------+--------|
-| *Total time*      | *4:01* |
+| *Total time*      | *0:20* |
 |-------------------+--------|
-| Hour registration | 4:01   |
+| Hour registration | 0:20   |
 #+END:
+
+** [2019-04-26 Fri]
+
+- Ch. 15.3: The Application Factory Pattern
+
+** [2019-04-22 Mon]
+
+- Ch. 15: A Better Application Structure
+- Ch. 15.1: Current Limitations
+- Ch. 15.2: Blueprints
 
 ** [2019-04-21 Sun]
 
