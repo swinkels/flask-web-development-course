@@ -2,7 +2,11 @@
 
 * Hour registration
   :LOGBOOK:
-  CLOCK: [2019-04-28 Sun 09:51]
+  CLOCK: [2019-05-03 Fri 20:25]--[2019-05-03 Fri 20:47] =>  0:22
+  CLOCK: [2019-05-03 Fri 20:17]--[2019-05-03 Fri 20:20] =>  0:03
+  CLOCK: [2019-05-03 Fri 20:01]--[2019-05-03 Fri 20:12] =>  0:11
+  CLOCK: [2019-04-28 Sun 21:09]--[2019-04-28 Sun 21:34] =>  0:25
+  CLOCK: [2019-04-28 Sun 09:51]--[2019-04-28 Sun 10:28] =>  0:37
   CLOCK: [2019-04-27 Sat 20:19]--[2019-04-27 Sat 20:46] =>  0:27
   CLOCK: [2019-04-27 Sat 16:28]--[2019-04-27 Sat 17:15] =>  0:47
   CLOCK: [2019-04-27 Sat 14:01]--[2019-04-27 Sat 14:27] =>  0:26
@@ -47,17 +51,35 @@
   :END:
 
 #+BEGIN: clocktable :scope file :block week
-#+CAPTION: Clock summary at [2019-04-27 Sat 20:47], for week 2019-W17.
+#+CAPTION: Clock summary at [2019-05-03 Fri 20:47], for week 2019-W18.
 | Headline          | Time   |
 |-------------------+--------|
-| *Total time*      | *3:14* |
+| *Total time*      | *0:36* |
 |-------------------+--------|
-| Hour registration | 3:14   |
+| Hour registration | 0:36   |
 #+END:
+
+** [2019-05-03 Fri]
+
+- Ch. 17.9: Setting Up Gunicorn and Supervisor
+- Ch. 17.10: Setting up Nginx
+- Ch. 17.11: Deploying Application Updates
+- Ch. 17.12: Raspberry Pi Hosting
 
 ** [2019-04-28 Sun]
 
-- Ch. 17.8: Search View Function (continued)
+- Ch. 16.8: Search View Function (continued)
+- Ch. 17: Deployment on Linux
+- Ch. 17.1: Traditional Hosting
+- Ch. 17.2: Creating an Ubuntu Server
+  - decided to use Vagrant with KVM for the Ubuntu Server
+- Ch. 17.3: Using a SSH client
+- Ch. 17.4: Password-less Logins
+- Ch. 17.5: Securing your Server
+  - nice tips to minimize the risk of your server being compromised
+- Ch. 17.6: Installing Base Dependencies
+- Ch. 17.7: Installing the Application
+- Ch. 17.8: Setting up MySQL
 
 ** [2019-04-27 Sat]
 
