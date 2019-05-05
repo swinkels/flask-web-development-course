@@ -2,6 +2,8 @@
 
 * Hour registration
   :LOGBOOK:
+  CLOCK: [2019-05-05 Sun 16:51]--[2019-05-05 Sun 17:41] =>  0:50
+  CLOCK: [2019-05-04 Sat 17:11]--[2019-05-04 Sat 17:34] =>  0:23
   CLOCK: [2019-05-03 Fri 20:25]--[2019-05-03 Fri 20:47] =>  0:22
   CLOCK: [2019-05-03 Fri 20:17]--[2019-05-03 Fri 20:20] =>  0:03
   CLOCK: [2019-05-03 Fri 20:01]--[2019-05-03 Fri 20:12] =>  0:11
@@ -51,13 +53,40 @@
   :END:
 
 #+BEGIN: clocktable :scope file :block week
-#+CAPTION: Clock summary at [2019-05-03 Fri 20:47], for week 2019-W18.
+#+CAPTION: Clock summary at [2019-05-05 Sun 17:41], for week 2019-W18.
 | Headline          | Time   |
 |-------------------+--------|
-| *Total time*      | *0:36* |
+| *Total time*      | *1:49* |
 |-------------------+--------|
-| Hour registration | 0:36   |
+| Hour registration | 1:49   |
 #+END:
+
+** [2019-05-05 Sun]
+
+- Ch. 18.8: Logging to stdout
+- Ch. 18.9: Compiled Translations
+- Ch. 18.10: Elasticsearch Hosting
+- Ch. 18.11: Updates to Requirements
+  - add yaml to dotspacemacs-configuration-layers for Spacemacs
+- Ch. 18.12: The Procfile
+- Ch. 18.13: Deploying the Application
+  - made an error during deployment: forgot that I was in the detached head of
+    the official microblog repo
+  - put the app in 'maintenance mode' in Heroku, a.k.a. 'offline' see
+    https://dashboard.heroku.com/apps/flask-microblog-sodalis/settings
+- Ch. 18.14: Deploying Application Updates
+
+** [2019-05-04 Sat]
+
+- Ch. 18: Deployment on Heroku
+- Ch. 18.1: Hosting on Heroku
+- Ch. 18.2: Creating Heroku account
+- Ch. 18.3: Installing the Heroku CLI
+- Ch. 18.4: Setting Up Git
+- Ch. 18.5: Creating a Heroku Application
+- Ch. 18.6: The Ephemeral File System
+- Ch. 18.7: Working with a Heroku Postgres Database
+
 
 ** [2019-05-03 Fri]
 
