@@ -2,6 +2,8 @@
 
 * Hour registration
   :LOGBOOK:
+  CLOCK: [2019-05-08 Wed 20:27]--[2019-05-08 Wed 20:59] =>  0:32
+  CLOCK: [2019-05-07 Tue 21:11]--[2019-05-07 Tue 21:56] =>  0:45
   CLOCK: [2019-05-05 Sun 16:51]--[2019-05-05 Sun 17:41] =>  0:50
   CLOCK: [2019-05-04 Sat 17:11]--[2019-05-04 Sat 17:34] =>  0:23
   CLOCK: [2019-05-03 Fri 20:25]--[2019-05-03 Fri 20:47] =>  0:22
@@ -53,13 +55,27 @@
   :END:
 
 #+BEGIN: clocktable :scope file :block week
-#+CAPTION: Clock summary at [2019-05-05 Sun 17:41], for week 2019-W18.
+#+CAPTION: Clock summary at [2019-05-08 Wed 20:59], for week 2019-W19.
 | Headline          | Time   |
 |-------------------+--------|
-| *Total time*      | *1:49* |
+| *Total time*      | *1:17* |
 |-------------------+--------|
-| Hour registration | 1:49   |
+| Hour registration | 1:17   |
 #+END:
+
+** [2019-05-08 Wed]
+
+- Ch. 19.4: Using Third-Party "Containerized" Services
+- Ch. 19.5: The Docker Container Registry
+- Ch. 19.6: Deployment of Containerized Applications
+
+** [2019-05-07 Tue]
+
+- Ch. 19: Deployment on Docker Containers
+- Ch. 19.1: Installing Docker CE
+- Ch. 19.2: Building a Container Image
+  - recursive chown is really slow: the same issue as https://github.com/docker/for-linux/issues/388 ?
+- Ch. 19.3: Starting a Container
 
 ** [2019-05-05 Sun]
 
