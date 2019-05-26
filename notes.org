@@ -2,6 +2,10 @@
 
 * Hour registration
   :LOGBOOK:
+  CLOCK: [2019-05-26 Sun 20:22]--[2019-05-26 Sun 20:50] =>  0:28
+  CLOCK: [2019-05-21 Tue 20:25]--[2019-05-21 Tue 20:51] =>  0:26
+  CLOCK: [2019-05-21 Tue 20:05]--[2019-05-21 Tue 20:13] =>  0:08
+  CLOCK: [2019-05-08 Wed 20:59]--[2019-05-08 Wed 21:02] =>  0:03
   CLOCK: [2019-05-08 Wed 20:27]--[2019-05-08 Wed 20:59] =>  0:32
   CLOCK: [2019-05-07 Tue 21:11]--[2019-05-07 Tue 21:56] =>  0:45
   CLOCK: [2019-05-05 Sun 16:51]--[2019-05-05 Sun 17:41] =>  0:50
@@ -55,13 +59,28 @@
   :END:
 
 #+BEGIN: clocktable :scope file :block week
-#+CAPTION: Clock summary at [2019-05-08 Wed 20:59], for week 2019-W19.
+#+CAPTION: Clock summary at [2019-05-26 Sun 20:50], for week 2019-W21.
 | Headline          | Time   |
 |-------------------+--------|
-| *Total time*      | *1:17* |
+| *Total time*      | *1:02* |
 |-------------------+--------|
-| Hour registration | 1:17   |
+| Hour registration | 1:02   |
 #+END:
+
+** [2019-05-26 Sun]
+
+- Ch. 20.7: Ajax Requests
+- Ch. 20.8: Popover Creation and Destruction
+
+** [2019-05-21 Tue]
+
+- Ch. 20: Some JavaScript Magic
+- Ch. 20.1: Server-side support
+- Ch. 20.2: Introduction to the Bootstrap Popover Component
+- Ch. 20.3: Executing a Function On Page Load
+- Ch. 20.4: Finding DOM Elements with Selectors
+- Ch. 20.5: Popovers and the DOM
+- Ch. 20.6: Hover Events
 
 ** [2019-05-08 Wed]
 
