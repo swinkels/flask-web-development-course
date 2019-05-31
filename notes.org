@@ -2,7 +2,10 @@
 
 * Hour registration
   :LOGBOOK:
-  CLOCK: [2019-05-26 Sun 20:22]--[2019-05-26 Sun 20:50] =>  0:28
+  CLOCK: [2019-05-31 Fri 11:53]--[2019-05-31 Fri 12:37] =>  0:44
+  CLOCK: [2019-05-31 Fri 11:35]--[2019-05-31 Fri 11:45] =>  0:10
+  CLOCK: [2019-05-29 Wed 19:44]--[2019-05-29 Wed 20:43] =>  0:59
+  CLOCK: [2019-05-26 Sun 20:22]--[2019-05-26 Sun 20:52] =>  0:30
   CLOCK: [2019-05-21 Tue 20:25]--[2019-05-21 Tue 20:51] =>  0:26
   CLOCK: [2019-05-21 Tue 20:05]--[2019-05-21 Tue 20:13] =>  0:08
   CLOCK: [2019-05-08 Wed 20:59]--[2019-05-08 Wed 21:02] =>  0:03
@@ -59,13 +62,24 @@
   :END:
 
 #+BEGIN: clocktable :scope file :block week
-#+CAPTION: Clock summary at [2019-05-26 Sun 20:50], for week 2019-W21.
+#+CAPTION: Clock summary at [2019-05-31 Fri 12:37], for week 2019-W22.
 | Headline          | Time   |
 |-------------------+--------|
-| *Total time*      | *1:02* |
+| *Total time*      | *1:53* |
 |-------------------+--------|
-| Hour registration | 1:02   |
+| Hour registration | 1:53   |
 #+END:
+
+** [2019-05-31 Fri]
+
+- Ch. 21.3: Dynamic Message Notification Badge
+- Ch. 21.4: Delivering Notifications to Clients
+
+** [2019-05-29 Wed]
+
+- Ch. 21: User Notifications
+- Ch. 21.1: Private Messages
+- Ch. 21.2: Static Message Notification Badge
 
 ** [2019-05-26 Sun]
 
